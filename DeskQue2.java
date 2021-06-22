@@ -3,7 +3,6 @@
 import java.util.*;
 class DeskQue2 {
     public static void main(String[] args) {
-       // System.out.println("Hello, World!"); 
         Scanner sc = new Scanner(System.in);
         int n = sc.nextInt();
         int arr[] = new int[n];
